@@ -10,7 +10,7 @@ import concesionario.excepciones.ModeloNoValidoException;
 /**
  * Clase para la creaci�n de coches
  * 
- * @author Mario Navarro Madrid
+ * @author EL VERDADERO AUTOR ES LOJI
  *
  */
 
