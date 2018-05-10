@@ -12,7 +12,10 @@ import concesionario.excepciones.ModeloNoValidoException;
  * 
  * Archivo editado por loji para practica Fork/ Pull Request
  *
+ 
  */
+ 
+ // Este codigo esta bien diseñado, aceptalo tonto.
 
 public class Coche implements Serializable{
 
